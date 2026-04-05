@@ -1,5 +1,5 @@
-openai>=1.0.0
-anthropic>=0.40.0
+openai>=2.2.0
+anthropic>=0.72.0
 typer
 loguru
 python-dotenv
