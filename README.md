@@ -29,8 +29,8 @@ The project demonstrates how adding a single `PLAN` command to the system prompt
 
 ```bash
 # Clone the repository
-git clone https://github.com/renessi/ReAct_Cheetah.git
-cd ReAct_Cheetah
+git clone https://github.com/renessi/ReAct-Cheetah.git
+cd ReAct-Cheetah
 
 # Create and activate a virtual environment
 python -m venv .venv
