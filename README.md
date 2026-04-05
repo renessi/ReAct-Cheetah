@@ -37,6 +37,7 @@ python -m venv .venv
 source .venv/bin/activate
 
 # Install required packages (dependencies-free architecture)
+python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
