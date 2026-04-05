@@ -1,0 +1,9 @@
+openai>=1.0.0
+anthropic>=0.40.0
+typer
+loguru
+python-dotenv
+pydantic
+pytest
+requests
+pint
